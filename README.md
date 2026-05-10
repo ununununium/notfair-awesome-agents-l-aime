@@ -89,6 +89,7 @@ A curated collection of cutting-edge AI agent projects, frameworks, and research
 | [Semantic Kernel](https://github.com/microsoft/semantic-kernel) | Integrate cutting-edge LLM technology quickly and easily into your apps | C#/Python | 15k+ | 2024 |
 | [Composio](https://github.com/ComposioHQ/composio) | Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling | TypeScript | 25k+ | 2024 |
 | [AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) | AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way | Python | 28k+ | 2024 |
+| [NotFair](https://notfair.co) | Google Ads MCP server for AI agents. Diagnose campaigns, recommend optimizations, execute approved changes via the Google Ads API. |
 
 ### 🧠 AI Assistant & Chat Agents
 
